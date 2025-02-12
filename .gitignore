@@ -8,18 +8,6 @@
 .DS_Store
 Thumbs.db
 
-# IDEs
-# IntelliJ IDEA
-/.idea/
-/*.iml
-/out/
-
-# Eclipse
-/.classpath
-/.project
-/.settings/
-/target/
-
 # VS Code
 /.vscode/
 
